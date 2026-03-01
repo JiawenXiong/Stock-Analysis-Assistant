@@ -1,0 +1,34 @@
+{
+  "extensionName": {
+    "message": "股票分析助手",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "在雪球股票页面右键菜单，选择AI平台进行股票分析",
+    "description": "扩展描述"
+  },
+  "contextMenuAnalyze": {
+    "message": "股票分析",
+    "description": "右键菜单父项"
+  },
+  "platformGemini": {
+    "message": "Google Gemini",
+    "description": "Gemini 平台名称"
+  },
+  "platformChatgpt": {
+    "message": "ChatGPT",
+    "description": "ChatGPT 平台名称"
+  },
+  "platformKimi": {
+    "message": "Kimi (月之暗面)",
+    "description": "Kimi 平台名称"
+  },
+  "platformDoubao": {
+    "message": "豆包",
+    "description": "豆包平台名称"
+  },
+  "platformGrok": {
+    "message": "Grok (xAI)",
+    "description": "Grok 平台名称"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "extensionName": {
+    "message": "Stock Analysis Assistant",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Right-click on Xueqiu stock page to analyze with AI platforms",
+    "description": "Extension description"
+  },
+  "contextMenuAnalyze": {
+    "message": "Stock Analysis",
+    "description": "Context menu parent item"
+  },
+  "platformGemini": {
+    "message": "Google Gemini",
+    "description": "Gemini platform name"
+  },
+  "platformChatgpt": {
+    "message": "ChatGPT",
+    "description": "ChatGPT platform name"
+  },
+  "platformKimi": {
+    "message": "Kimi",
+    "description": "Kimi platform name"
+  },
+  "platformDoubao": {
+    "message": "Doubao",
+    "description": "Doubao platform name"
+  },
+  "platformGrok": {
+    "message": "Grok (xAI)",
+    "description": "Grok platform name"
+  }
+}
